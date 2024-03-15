@@ -1,0 +1,3 @@
+Erik: Bemutató,egyéni weblap
+Ricsi:Weblap nyitó oldal
+Gergő: github kezelése és egyéni weblap
